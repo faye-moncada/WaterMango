@@ -12,6 +12,6 @@ The office has 5 plants, and no one to water them. We don’t want them to die. 
   
  ## Running the solution
  1. Clone the solution using Visual Studio 2019 or newer
- 2. Rebuild the solution
- 3. Run debug using IIS Express
+ 2. Build the solution, node.js is required for building.
+ 3. Run the application using IIS Express
  
